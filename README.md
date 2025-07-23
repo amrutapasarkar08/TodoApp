@@ -30,10 +30,11 @@ my-todo-app/
 │   │   │   ├── TodoList.tsx
 │   │   │   ├── TodoList.css
 │   │   │   └── TodoList.test.tsx
+|   ├── hooks/
+│   │   └── useTodo.ts
 │   ├── types/
 │   │   └── todo.ts
-│   ├── styles/
-│   │   ├── App.css
+│   ├── App.css
 │   ├── App.tsx
 │   └── main.tsx
 ├── jest.config.js
