@@ -48,7 +48,7 @@ my-todo-app/
 ## 1. Clone the repository
 ```bash
 git clone https://github.com/amrutapasarkar08/TodoApp.git
-cd my-todo-app
+cd TodoApp
 ```
 ## 2. Install dependencies
 ```bash
